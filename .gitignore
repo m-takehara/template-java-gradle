@@ -19,3 +19,6 @@ build/
 # IntelliJ
 .idea/
 *.iml
+
+# asdf
+.tool-versions
